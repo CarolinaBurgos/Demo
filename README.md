@@ -1,4 +1,6 @@
 # Demo
-Demo
-**Integrantes
-Nombre: David Jurado
+
+##Integrantes
+======
+1. David Jurado
+2. Jhonny Pincay
