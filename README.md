@@ -1,4 +1,5 @@
 # Demo
 Demo
-**Integrantes
+##Integrantes
+------
 Nombre: David Jurado
